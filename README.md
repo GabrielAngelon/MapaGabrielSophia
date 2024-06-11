@@ -2,10 +2,10 @@
 
 ![image](https://github.com/GabrielAngelon/MapaGabrielSophia/assets/149213303/98ac72a0-4cad-41cb-9659-5a53fa66b09c)
 
-Como e onde adicionar as permissões necessárias para obter a localização pelo GPS;
-Como simular a localização no emulador do Android;
-Trechos de código comentado para adicionar uma marcação em um mapa baseado na localização do GPS;
-Páginas da documentação oficial do MapBox.
+- Como e onde adicionar as permissões necessárias para obter a localização pelo GPS;
+- Como simular a localização no emulador do Android;
+- Trechos de código comentado para adicionar uma marcação em um mapa baseado na localização do GPS;
+- Páginas da documentação oficial do MapBox.
 
 
 ## Configurar credenciais.
